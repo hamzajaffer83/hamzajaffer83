@@ -1,16 +1,91 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Hamza Jaffer 👋</h1>
+<p align="center">
+  Full-Stack Developer • Laravel • React • Next.js • Spring Boot • FastAPI • TailwindCSS
+</p>
 
-<!--
-**hamzajaffer83/hamzajaffer83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=I+design+and+build+modern+web+apps.;Clean+architecture%2C+scalable+APIs%2C+beautiful+UIs.;Available+for+freelance+and+collaboration." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Focus
+**Frontend:** React, Next.js, TailwindCSS  
+**Backend:** Laravel, Spring Boot, FastAPI  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**DevOps/Infra:** Docker, GitHub Actions, Vercel, Netlify, AWS (EC2/S3), Nginx  
+**Patterns:** RESTful APIs, JWT/Auth, SSR/SSG, Clean Architecture, CI/CD
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 🧩 What I Love Building
+- ⚡ **High-performance frontends** with React/Next.js + Tailwind
+- 🔒 **Secure APIs** with Laravel, Spring Boot, or FastAPI
+- 🧭 **SEO-friendly SSR** apps and content sites
+- 📊 **Dashboards & SaaS** with clean, scalable architectures
+
+---
+
+### 🌟 Featured Projects
+> Swap these with your real repos.
+
+| Project | Stack | Live / Repo |
+| --- | --- | --- |
+| **SaaS Starter** – Auth, billing, teams | Next.js · Tailwind · Prisma · Stripe | [Live](#) · [Repo](https://github.com/<YOUR_GITHUB_USERNAME>/saas-starter) |
+| **Shop API** – eCommerce backend | Laravel · MySQL · JWT | [Docs](#) · [Repo](https://github.com/<YOUR_GITHUB_USERNAME>/laravel-shop-api) |
+| **Analytics Dashboard** | React · FastAPI · PostgreSQL | [Live](#) · [Repo](https://github.com/<YOUR_GITHUB_USERNAME>/react-fastapi-analytics) |
+| **Real-time Chat** | Spring Boot · WebSocket · React | [Live](#) · [Repo](https://github.com/<YOUR_GITHUB_USERNAME>/spring-react-chat) |
+
+---
+
+### 📈 GitHub Snapshot
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>&theme=transparent&hide_border=true" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="top langs" />
+</p>
+
+---
+
+### 🛠️ Recent Workflows (CI/CD)
+- **Automated tests** on PRs (GitHub Actions)
+- **Build & deploy** Next.js to Vercel/Netlify
+- **Dockerized** services for parity between dev and prod
+- **Zero-downtime** API deploys with migrations
+
+---
+
+### 🤝 Let’s Collaborate
+- Contract work: dashboards, SaaS, APIs, landing pages
+- Tech stack migrations (Laravel ⇄ Spring Boot ⇄ FastAPI)
+- Performance tuning & accessibility audits
+
+**Email:** `<YOUR_EMAIL>`  
+**Fiverr:** search “Hamza Jaffer React NextJS Tailwind”  
+
+---
+
+### 💡 Quick Starters (copy & run)
+```bash
+# Next.js + Tailwind starter
+npx create-next-app@latest my-app --ts --eslint
+cd my-app && npm i -D tailwindcss postcss autoprefixer && npx tailwindcss init -p
