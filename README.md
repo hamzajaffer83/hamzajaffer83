@@ -15,7 +15,7 @@
 **Backend:** Laravel, Spring Boot, FastAPI  
 **Databases:** MySQL, PostgreSQL, MongoDB  
 **DevOps/Infra:** Docker, GitHub Actions, Vercel, Netlify, AWS (EC2/S3), Nginx  
-**Patterns:** RESTful APIs, JWT/Auth, SSR/SSG, Clean Architecture, CI/CD
+**Patterns:** RESTful APIs, JWT/Auth, Clean Architecture, CI/CD
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
