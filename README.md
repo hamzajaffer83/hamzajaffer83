@@ -46,10 +46,10 @@
 
 | Project | Stack | Live / Repo |
 | --- | --- | --- |
-| **SaaS Starter** – Auth, billing, teams | Next.js · Tailwind · Prisma · Stripe | [Live](#) · [Repo](https://github.com/<YOUR_GITHUB_USERNAME>/saas-starter) |
-| **Shop API** – eCommerce backend | Laravel · MySQL · JWT | [Docs](#) · [Repo](https://github.com/<YOUR_GITHUB_USERNAME>/laravel-shop-api) |
-| **Analytics Dashboard** | React · FastAPI · PostgreSQL | [Live](#) · [Repo](https://github.com/<YOUR_GITHUB_USERNAME>/react-fastapi-analytics) |
-| **Real-time Chat** | Spring Boot · WebSocket · React | [Live](#) · [Repo](https://github.com/<YOUR_GITHUB_USERNAME>/spring-react-chat) |
+| **SaaS Starter** – Auth, billing, teams | Next.js · Tailwind · Prisma · Stripe | [Live](#) · [Repo](https://github.com/hamzajaffer83/saas-starter) |
+| **Shop API** – eCommerce backend | Laravel · MySQL · JWT | [Docs](#) · [Repo](https://github.com/hamzajaffer83/laravel-shop-api) |
+| **Analytics Dashboard** | React · FastAPI · PostgreSQL | [Live](#) · [Repo](https://github.com/hamzajaffer83/react-fastapi-analytics) |
+| **Real-time Chat** | Spring Boot · WebSocket · React | [Live](#) · [Repo](https://github.com/hamzajaffer83/spring-react-chat) |
 
 ---
 
