@@ -42,7 +42,6 @@
 ---
 
 ### 🌟 Featured Projects
-> Swap these with your real repos.
 
 | Project | Stack | Live / Repo |
 | --- | --- | --- |
