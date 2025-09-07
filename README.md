@@ -55,13 +55,13 @@
 
 ### 📈 GitHub Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzajaffer83&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>&theme=transparent&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=hamzajaffer83&theme=transparent&hide_border=true" alt="streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzajaffer83&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="top langs" />
 </p>
 
 ---
