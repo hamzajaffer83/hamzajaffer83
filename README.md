@@ -50,6 +50,7 @@
 | **Codesync** – Remote Interview · Authentication. Live Comunication | Next JS · Tailwind · Radix UI · Clerk · Convex | [Live](https://remote-interview-platform-two.vercel.app/) · [Repo](https://github.com/hamzajaffer83/remote-interview-platform) |
 | **Gsap Cocktails** | React 19 · Gsap · Tailwind | [Live](https://porfolio-brown-ten.vercel.app/) · [Repo](https://github.com/hamzajaffer83/gsap_cocktails) |
 | **FastApi Blog** – Authentication | FastApi · SQLITE  | [docs](#) · [Repo](https://github.com/hamzajaffer83/fastapi_blog) |
+| **E-Commerce Store** – Next.js storefront + Laravel + Inertia dashboard | Next.js 14 · Laravel 12 · React 19 · TailwindCSS · shadcn | [Docs](#) · [Repo](https://github.com/hamzajaffer83/E-Commerce-Store) |
 
 ---
 
