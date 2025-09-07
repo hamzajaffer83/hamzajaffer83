@@ -49,6 +49,7 @@
 | **YC Directory** – Post Startup, Browse directory, Image handling | Next JS · Tailwind · Radix UI · Sanity | [Live](https://yc-directory-theta.vercel.app/) · [Repo](https://github.com/hamzajaffer83/yc_directory) |
 | **Codesync** – Remote Interview · Authentication. Live Comunication | Next JS · Tailwind · Radix UI · Clerk · Convex | [Live](https://remote-interview-platform-two.vercel.app/) · [Repo](https://github.com/hamzajaffer83/remote-interview-platform) |
 | **Gsap Cocktails** | React 19 · Gsap · Tailwind | [Live](https://porfolio-brown-ten.vercel.app/) · [Repo](https://github.com/hamzajaffer83/gsap_cocktails) |
+| **FastApi Blog** – Authentication | FastApi · SQLITE  | [docs](#) · [Repo](https://github.com/hamzajaffer83/fastapi_blog) |
 
 ---
 
