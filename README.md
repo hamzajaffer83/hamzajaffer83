@@ -46,10 +46,9 @@
 
 | Project | Stack | Live / Repo |
 | --- | --- | --- |
-| **SaaS Starter** – Auth, billing, teams | Next.js · Tailwind · Prisma · Stripe | [Live](#) · [Repo](https://github.com/hamzajaffer83/saas-starter) |
-| **Shop API** – eCommerce backend | Laravel · MySQL · JWT | [Docs](#) · [Repo](https://github.com/hamzajaffer83/laravel-shop-api) |
-| **Analytics Dashboard** | React · FastAPI · PostgreSQL | [Live](#) · [Repo](https://github.com/hamzajaffer83/react-fastapi-analytics) |
-| **Real-time Chat** | Spring Boot · WebSocket · React | [Live](#) · [Repo](https://github.com/hamzajaffer83/spring-react-chat) |
+| **YC Directory** – Post Startup, Browse directory, Image handling | Next JS · Tailwind · Radix UI · Sanity | [Live](https://yc-directory-theta.vercel.app/) · [Repo](https://github.com/hamzajaffer83/yc_directory) |
+| **Codesync** – Remote Interview · Authentication. Live Comunication | Next JS · Tailwind · Radix UI · Clerk · Convex | [Live](https://remote-interview-platform-two.vercel.app/) · [Repo](https://github.com/hamzajaffer83/remote-interview-platform) |
+| **Gsap Cocktails** | React 19 · Gsap · Tailwind | [Live](https://porfolio-brown-ten.vercel.app/) · [Repo](https://github.com/hamzajaffer83/gsap_cocktails) |
 
 ---
 
