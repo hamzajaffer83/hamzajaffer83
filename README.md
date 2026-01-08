@@ -53,19 +53,6 @@
 
 ---
 
-### 📈 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-jaffar&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamza-jaffar&theme=transparent&hide_border=true" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-jaffar&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="top langs" />
-</p>
-
----
-
 ### 🛠️ Recent Workflows (CI/CD)
 - **Automated tests** on PRs (GitHub Actions)
 - **Build & deploy** Next.js to Vercel/Netlify
