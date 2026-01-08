@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Hamza Jaffer 👋</h1>
+<h1 align="center">Hi, I'm Hamza Jaffar 👋</h1>
 <p align="center">
   Full-Stack Developer • Laravel • React • Next.js • Spring Boot • FastAPI • TailwindCSS
 </p>
@@ -47,21 +47,21 @@
 | --- | --- | --- |
 | **YC Directory** – Post Startup, Browse directory, Image handling | Next JS · Tailwind · Radix UI · Sanity | [Live](https://yc-directory-theta.vercel.app/) · [Repo](https://github.com/hamzajaffer83/yc_directory) |
 | **Codesync** – Remote Interview · Authentication. Live Comunication | Next JS · Tailwind · Radix UI · Clerk · Convex | [Live](https://remote-interview-platform-two.vercel.app/) · [Repo](https://github.com/hamzajaffer83/remote-interview-platform) |
-| **Gsap Cocktails** | React 19 · Gsap · Tailwind | [Live](https://porfolio-brown-ten.vercel.app/) · [Repo](https://github.com/hamzajaffer83/gsap_cocktails) |
-| **FastApi Blog** – Authentication | FastApi · SQLITE  | [docs](#) · [Repo](https://github.com/hamzajaffer83/fastapi_blog) |
-| **E-Commerce Store** – Next.js storefront + Laravel + Inertia dashboard | Next.js 14 · Laravel 12 · React 19 · TailwindCSS · shadcn | [Docs](#) · [Repo](https://github.com/hamzajaffer83/E-Commerce-Store) |
+| **Gsap Cocktails** | React 19 · Gsap · Tailwind | [Live](https://porfolio-brown-ten.vercel.app/) · [Repo](https://github.com/hamza-jaffar/gsap_cocktails) |
+| **FastApi Blog** – Authentication | FastApi · SQLITE  | [docs](#) · [Repo](https://github.com/hamza-jaffar/fastapi_blog) |
+| **E-Commerce Store** – Next.js storefront + Laravel + Inertia dashboard | Next.js 14 · Laravel 12 · React 19 · TailwindCSS · shadcn | [Docs](#) · [Repo](https://github.com/hamza-jaffar/E-Commerce-Store) |
 
 ---
 
 ### 📈 GitHub Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzajaffer83&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-jaffar&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamzajaffer83&theme=transparent&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=hamza-jaffar&theme=transparent&hide_border=true" alt="streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzajaffer83&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-jaffar&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="top langs" />
 </p>
 
 ---
